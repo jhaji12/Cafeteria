@@ -129,6 +129,6 @@ app.post('/upload', upload.single('image'), (req, res, next) => {
 
 app.use(authRoute);
 
-PORT = process.env.PORT;
+PORT = process.env.PORT||3000;
 
 app.listen(PORT, ()=> console.log(`Server started at port ${PORT}`))
