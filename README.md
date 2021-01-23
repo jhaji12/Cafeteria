@@ -1,9 +1,9 @@
 # Cafeteria
 To run this sample locally run the following commands in terminal (command prompt):
 
--https://github.com/anishaagarwal1111/Cafeteria.git
--Do 'npm init' to install node modules
--Check all dependencies in 'package.json'
+-https://github.com/anishaagarwal1111/Cafeteria.git</br>
+-Do 'npm init' to install node modules</br>
+-Check all dependencies in 'package.json'</br>
 -Do npm install to install the dependencies
 -Create '.env' file 
 -Provide the following details in .env file:
